@@ -1,4 +1,4 @@
-# Diaspora-Username-Classifier
+# Diaspora Username Classifier
 
 The project aims to assist **Marketers** in identifying individuals from specific Diasporas by analyzing Instagram usernames alone.
 
