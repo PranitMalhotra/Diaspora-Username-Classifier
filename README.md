@@ -7,5 +7,11 @@ While this project could potentially be applicable to any Diaspora, it has speci
 ## Installation
 
 ```bash
-  blah blah
+  git clone git@github.com:PranitMalhotra/Diaspora-Username-Classifier.git
+  cd Diaspora-Username-Classifier
+
+  mv sample.env .env
+  # Add your HypeAuditor credentials to '.env'.
+
+  # Open the Jupyter Notebook called 'main.ipynb' in your preferred code editor/Jupyter Lab/Jupyter Notebook.
 ```
